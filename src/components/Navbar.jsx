@@ -1,5 +1,5 @@
 import { useState } from "react";
-// import "boxicons/css/boxicons.min.css";
+import "boxicons/css/boxicons.min.css";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 
 export default function Navbar() {
