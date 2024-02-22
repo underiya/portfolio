@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+#resume-button-2{
+    border-radius: 50px;
+    background: #cbd5e1;
+    box-shadow: inset 20px 20px 60px #8a9199,
+                inset -20px -20px 60px #ffffff;
+}
